@@ -1,2 +1,2 @@
 # ThalesDias_qoda
-Deploy web tensorflowjs
+deploy web tensorflowjs
