@@ -1,2 +1,3 @@
 # tdbroot_qoda
-deploy web tensorflowjs
+-resolução de exercícios
+-deploy web tensorflowjs
